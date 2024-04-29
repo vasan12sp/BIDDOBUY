@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "790732998943",
+    "project_id": "biddobuy",
+    "storage_bucket": "biddobuy.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:790732998943:android:eea3323f4ef663956f882a",
+        "android_client_info": {
+          "package_name": "com.vasan12sp.biddobuy"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNKae5-i5uH8lCuxVoZy0Hs0e3WXauJig"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
